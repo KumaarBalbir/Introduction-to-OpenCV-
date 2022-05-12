@@ -22,10 +22,10 @@ from gtts import gTTS
 from playsound import playsound  
   
 # It is a text value that we want to convert to audio  
-text_val = 'अनुज झाँटू है'  
+text_val = 'Anuj is a good boy'  
   
 # Here are converting in English Language  
-language = 'hi'  
+language = 'en'  
   
 # Passing the text and language to the engine,  
 # here we have assign slow=False. Which denotes  
